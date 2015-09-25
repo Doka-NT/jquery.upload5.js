@@ -2,6 +2,7 @@
  * Plugin to pragmatically upload files to serve using XHR
  * @author <213036@skobka.com> Soshnikov Artem
  * @url https://github.com/Doka-NT/jquery.upload5.js
+ * @version 1.0
  */
 (function () {
     jQuery.upload5 = function (path, file_input, callback, progress_callback, onBeforeSend) {
