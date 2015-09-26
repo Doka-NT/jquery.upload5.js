@@ -28,7 +28,7 @@
                         if (typeof callback != 'undefined')
                             callback(this.response, this.status);
                     } else {
-
+                        callback(this.response, this.status);
                     }
                 }
             };
